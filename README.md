@@ -1,4 +1,6 @@
 # Variational Graph Convolutional Networks
+![Screenshot](thumbnail.png)
+
 Implementation of the paper "Variational Inference for Graph Convolutional Networks in the Absence of
 Graph Data and Adversarial Settings", accepted for publication at NeurIPS 2020. The paper will be publicly available 
 from the [NeurIPs website](https://neurips.cc/) but a preprint can be found in [arXiv](https://arxiv.org/abs/1906.01852).
